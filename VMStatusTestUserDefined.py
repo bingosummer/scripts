@@ -21,7 +21,7 @@
 
 class VMStatusTest(object):
     """
-        User Defined.
+        User Defined From Github.
     """
     @classmethod
     def is_vm_idle(cls):
