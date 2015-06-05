@@ -1,4 +1,4 @@
 #!/usr/bin/python
-# Github
+# Azure Storage
 def is_vm_idle():
     return True
